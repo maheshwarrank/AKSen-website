@@ -1,0 +1,46 @@
+.navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+      background-color: white;
+      border: 0px;
+      font-size: 14px;
+    }
+    
+footer {
+	  background-color: #f2f2f2;
+    padding: 25px;
+    }
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #286090;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: red;
+}
+
+.navbar-inverse .navbar-nav>li>a:focus {
+    color: #286090;
+}
+
+#banner{
+  margin-left: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px; 
+}
+
+#profpic{
+      height: 120px;
+    width: 120px;
+    position: absolute;
+    right: 20px;
+    margin-top: 5px;
+}
+
+/*#profname{
+    margin-left: 540px;
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    top: 15px;
+}*/
